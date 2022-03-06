@@ -35,8 +35,6 @@ class KeyboardSwitcher:
             self.load_state()
             set_layout(self.current_layout)
 
-
-
     def load_state(self):
         with open(self.state_file) as f:
             data = json.load(f)
