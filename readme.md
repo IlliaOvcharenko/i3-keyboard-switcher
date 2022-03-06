@@ -1,4 +1,4 @@
-#⌨️  i3 Keyboard Switcher
+# ⌨️  i3 Keyboard Switcher
 Allow to switch keyboard layout using 'most recent' rule.
 
 ## Install
